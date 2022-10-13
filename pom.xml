@@ -289,8 +289,8 @@
   </profiles>
 
   <scm>
-    <connection>scm:git:git@github.com:nickersan/${project.artifactId}.git</connection>
-    <developerConnection>scm:git:git@github.com:nickersan/${project.artifactId}.git</developerConnection>
+    <connection>scm:git:https://github.com/nickersan/${project.artifactId}</connection>
+    <developerConnection>scm:git:https://github.com/nickersan/${project.artifactId}</developerConnection>
     <url>https://github.com/nickersan/${project.artifactId}</url>
     <tag>HEAD</tag>
   </scm>
