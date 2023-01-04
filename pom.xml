@@ -121,6 +121,16 @@
         <filtering>true</filtering>
       </resource>
 
+      <resource>
+        <directory>src/test/resources</directory>
+        <filtering>true</filtering>
+      </resource>
+
+      <resource>
+        <directory>src/it/resources</directory>
+        <filtering>true</filtering>
+      </resource>
+
     </resources>
 
     <plugins>
